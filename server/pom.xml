@@ -30,14 +30,12 @@
   </build>
 
   <dependencies>
-    <!-- Modern JUnit 5 Jupiter Engine (replaces legacy junit-dep) -->
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
       <scope>test</scope>
     </dependency>
 
-    <!-- Consolidated Hamcrest (replaces separate hamcrest-core and hamcrest-library) -->
     <dependency>
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest</artifactId>
